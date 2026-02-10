@@ -1,2 +1,5 @@
-# unreasonable-fiction
-Personal fiction archive. Novels, drafts, and experiments — written in Markdown and versioned with Git
+# Unreasonable fiction
+
+Этот репозиторий служит убежищем для моих заметок / рассказов / стихов и т.д.
+
+Почему гит? Да просто, чтобы не потерялось. А если я когда-нибудь не смогу найти доступ в свой гит, то дальше писать мне уже точно не стоит
