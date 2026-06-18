@@ -9,4 +9,5 @@
 - [Глава 2. Суть](02_the-essence.md)
 - [Глава 3. В пустом зале ДК](03_in-the-empty-house-of-culture.md)
 - [Глава 4. Придётся всё же начинать](04_guess-its-time-to-begin.md)
-- [Глава 5. На работе](05_at-work.md)
+- [Глава 5. На работу](05_to-work.md)
+- [Глава 6. На работе](06_at-work.md)
